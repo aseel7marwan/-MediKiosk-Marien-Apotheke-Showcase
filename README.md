@@ -223,8 +223,11 @@ init_marien.sh   Headless API initialization script
 
 ## 👤 Author & Contact
 
-**Aseel Marwan Kheder** IT-Support Specialist & Junior Full-Stack Developer
+**Aseel Marwan Kheder** IT-Support & Junior Full-Stack Developer
 
 Based in Cologne, Germany
 
-📧 **Email:** [kontakt@aseelmarwan.de]()
+- 🌐 Portfolio: www.aseelmarwan.de  
+- 💼 GitHub: https://github.com/aseel7marwan  
+- 💼 LinkedIn: https://www.linkedin.com/in/aseel7marwan/  
+- 📧 Email: kontakt@aseelmarwan.de  
